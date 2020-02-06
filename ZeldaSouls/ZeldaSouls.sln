@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Tilemap.Extras", "Unity.2D.Tilemap.Extras.csproj", "{1279F04B-64C1-552D-FF4B-7534EA6536A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{C6CDDA3E-24ED-0537-3054-1301E18FA5A5}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Tilemap.Extras.Editor", "Unity.2D.Tilemap.Extras.Editor.csproj", "{2439929C-683C-BA28-14E5-9F95D3E383B4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Tilemap.Extras.Placeholder.EditorTests", "Unity.2D.Tilemap.Extras.Placeholder.EditorTests.csproj", "{3B5DE132-9002-81FE-A5ED-DBDBBA5D4FCF}"
@@ -17,6 +19,10 @@ Global
 		{1279F04B-64C1-552D-FF4B-7534EA6536A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1279F04B-64C1-552D-FF4B-7534EA6536A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1279F04B-64C1-552D-FF4B-7534EA6536A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6CDDA3E-24ED-0537-3054-1301E18FA5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CDDA3E-24ED-0537-3054-1301E18FA5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CDDA3E-24ED-0537-3054-1301E18FA5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CDDA3E-24ED-0537-3054-1301E18FA5A5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2439929C-683C-BA28-14E5-9F95D3E383B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2439929C-683C-BA28-14E5-9F95D3E383B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2439929C-683C-BA28-14E5-9F95D3E383B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
